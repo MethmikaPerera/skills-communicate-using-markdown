@@ -4,3 +4,6 @@
 ```
 $ git init
 ```
+
+- [x] checked
+- [ ] not checked
